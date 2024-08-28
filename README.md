@@ -1,4 +1,4 @@
-<h1>AgenceX Landing page</h1>
+<h1>PRUEBA ASTRO AND BUN UTILIZANDO LANDING</h1>
 
 A simple landing page for a digital agency
 
